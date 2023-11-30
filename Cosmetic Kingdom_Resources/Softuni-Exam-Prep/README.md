@@ -1,2 +1,0 @@
-# Softuni Exam Prep
- 

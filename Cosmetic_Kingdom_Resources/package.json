@@ -1,7 +1,7 @@
 {
   "name": "cosmetic-kingdom",
   "version": "1.0.0",
-  "description": "Cismetic Kingdom Single Page Application",
+  "description": "Cosmetic Kingdom Single Page Application",
   "main": "index.html",
   "scripts": {
     "test": "mocha tests",
